@@ -11,3 +11,15 @@ $ npm install
 ```sh
 $ npm start
 ```
+
+## On macOS
+
+```sh
+$ sudo npm install
+```
+
+enter passcode...
+
+```sh
+$ sudo npm start
+```
